@@ -40,7 +40,7 @@ export default function Education() {
                             </div>
                             <div className="text-sm text-muted-foreground">
                                 <div>Graduated: Dec 2024</div>
-                                <div className="font-semibold text-primary">3.9 GPA (Dean's List)</div>
+                                <div className="font-semibold text-primary">3.9 GPA (Summa Cum Laude)</div>
                             </div>
                         </div>
                     </CardHeader>

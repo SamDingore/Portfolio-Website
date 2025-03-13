@@ -55,7 +55,7 @@ export default function Contact() {
                         <CardHeader>
                             <CardTitle className="text-2xl">Get in Touch</CardTitle>
                             <CardDescription className="text-base">
-                                Fill out the form and I'll get back to you as soon as possible.
+                                Fill out the form and I&apos;ll get back to you as soon as possible.
                             </CardDescription>
                         </CardHeader>
                         <CardContent>
@@ -217,7 +217,7 @@ export default function Contact() {
                                 <p className="text-center text-sm">
                                     Available for freelance projects and full-time positions.
                                     <br />
-                                    Let's build something amazing together!
+                                    Let&apos;s build something amazing together!
                                 </p>
                             </motion.div>
                         </CardContent>
