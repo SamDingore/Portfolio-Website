@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Phone, Mail, MapPin, Send, CheckCircle } from "lucide-react"
+import { Mail, MapPin, Send, CheckCircle } from "lucide-react"
 import SectionHeading from "./ui/section-heading"
 import { motion } from "framer-motion"
 
