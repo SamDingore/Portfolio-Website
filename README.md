@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Website
 
-## Getting Started
+This is a personal portfolio website built with [Next.js](https://nextjs.org/).
 
-First, run the development server:
+## 🚀 Features
+- Fast and optimized with **Turbopack** for development
+- Built with **Next.js 13+**
+- Includes linting with **ESLint**
+- Easy deployment-ready build
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 📦 Installation
+
+Ensure you have **Node.js** (version 16 or later) and **Yarn** installed.
+
+```sh
+# Clone the repository
+git clone https://github.com/SamDingore/Portfolio-Website.git
+cd portfolio
+
+# Install dependencies
+yarn install 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Development
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Start the development server with Turbopack:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```sh
+yarn dev
+```
+By default, the app runs on http://localhost:3000/.
 
-## Learn More
+## 🔨 Build for Production
 
-To learn more about Next.js, take a look at the following resources:
+To create an optimized production build, run:
+```sh
+yarn build
+```
+This generates a .next/ folder containing the compiled application.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Start Production Server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To serve the built application:
+```sh
+yarn start
+```
+The server will start at http://localhost:3000/.
 
-## Deploy on Vercel
+## 🔍 Linting
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To check for linting issues:
+```sh
+yarn lint
+```
+## 📜 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.
