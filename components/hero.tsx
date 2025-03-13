@@ -79,7 +79,7 @@ export default function Hero() {
                 >
                     <motion.div whileHover={{ y: -5 }} transition={{ duration: 0.2 }}>
                         <Button variant="ghost" size="icon" className="rounded-full" asChild>
-                            <Link href="https://github.com/sameerdingore" target="_blank" aria-label="GitHub">
+                            <Link href="https://github.com/samdingore" target="_blank" aria-label="GitHub">
                                 <Github className="h-5 w-5" />
                             </Link>
                         </Button>
