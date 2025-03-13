@@ -163,7 +163,7 @@ export default function Contact() {
                             </CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-8">
-                            <motion.div
+                            {/* <motion.div
                                 className="flex items-center"
                                 whileHover={{ x: 5 }}
                                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
@@ -175,7 +175,7 @@ export default function Contact() {
                                     <p className="text-sm text-muted-foreground">Phone</p>
                                     <p className="font-medium">(831) 760-1402</p>
                                 </div>
-                            </motion.div>
+                            </motion.div> */}
 
                             <motion.div
                                 className="flex items-center"
