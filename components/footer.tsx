@@ -30,7 +30,7 @@ export default function Footer() {
                     >
                         <motion.div whileHover={{ y: -5 }} transition={{ type: "spring", stiffness: 400, damping: 10 }}>
                             <Link
-                                href="https://github.com/sameerdingore"
+                                href="https://github.com/samdingore"
                                 target="_blank"
                                 className="text-muted-foreground hover:text-primary transition-colors"
                                 aria-label="GitHub"
@@ -52,7 +52,7 @@ export default function Footer() {
 
                         <motion.div whileHover={{ y: -5 }} transition={{ type: "spring", stiffness: 400, damping: 10 }}>
                             <Link
-                                href="mailto:sam.dingore@gmail.com"
+                                href="mailto:samedingore@gmail.com"
                                 className="text-muted-foreground hover:text-primary transition-colors"
                                 aria-label="Email"
                             >
