@@ -20,9 +20,9 @@ const experiences = [
     },
     {
         title: "Research Assistant",
-        company: "California State University Monterey Bay",
+        company: "University",
         period: "Jan 2024 – May 2024",
-        location: "Seaside, CA",
+        location: "on site",
         description: [
             "Led a team of four to design and implement an RNA motif analysis tool using Three.js and Next.js, solving complex geometric and structural biology challenges.",
             "Developed a web application utilizing a client-server architecture with Next.js and NestJS, facilitating real-time analysis and visualization for RNA research.",
@@ -33,7 +33,7 @@ const experiences = [
         title: "Full Stack Developer",
         company: "The Analyzing Company",
         period: "Jul 2022 – Aug 2023",
-        location: "Gotheghar, Ind",
+        location: "onsite",
         description: [
             "Led a development team in creating and deploying a scalable system with Next.js (frontend) and Express.js (backend), focusing on clean, modular code for optimal maintainability.",
             "Engineered a scalable, cloud-based backend with 99.9% uptime, integrating Jest for continuous testing and rapid development cycles.",
